@@ -1,5 +1,5 @@
 ![Header](./[html-system-website-concept-min.jpg])
-<h1 align="center">Hi 👋, I'm Bhumika Mhanedra</h1>
+<h1 align="center">Hi 👋, I'm Bhumika Mahendra</h1>
 <h3 align="center">A passionate Student pursing B.tech and currenty in 4 year</h3>
 <img align="right" alt="coding" width="400" src="256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
 
