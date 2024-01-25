@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumika107&label=Profile%20views&color=0e75b6&style=flat" alt="bhumika107" /> </p>
   
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web development** 
  
 - 📫 How to reach me **Bhumikamahendra330@gmail.com**  
  
