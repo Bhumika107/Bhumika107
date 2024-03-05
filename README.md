@@ -1,6 +1,6 @@
  ![Header](download.jpeg)   
 <h1 align="center">Hi 👋, I'm Bhumika Mahendra</h1>   
-<h3 align="center">A passionate Student pursing B.tech and currenty in 4 year</h3>   
+<h3 align="center">A passionate Student pursing B.tech and currenty in 4 year</h3>    
 <img align="right" alt="coding" width="400" src="256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumika107&label=Profile%20views&color=0e75b6&style=flat" alt="bhumika107" /> </p>
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Web development**   
     
 - 📫 How to reach me **Bhumikamahendra330@gmail.com**          
-  
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhumika mahendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhumika mahendra" height="30" width="40" /></a>
